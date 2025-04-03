@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">A passionate Data Scientist from France</h3>
+<h3 align="center">A passionate Data Expert from France</h3>
 
 - 🔭 I’m currently working on Data Warehousing
 
