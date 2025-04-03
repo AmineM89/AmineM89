@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A passionate Data Scientist from France</h3>
 
-- 🔭 I’m currently working on [Recommander system on dynamic graphs](https://github.com/AmineM89/Recommander_system_on_dynamic_graphs)
+- 🔭 I’m currently working on Data Warehousing
 
-- 🌱 I’m currently learning **Webscrapping**
+- 🌱 I’m currently learning **Snowflake**
 
 - 👯 I’m looking to collaborate on **time series prediction using facebook prophet**
 
-- 🤝 I’m looking for help with **scrapping dynamic websites**
+- 🤝 I’m looking for help with **ETL Pipeline Project Ideas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmineM89](https://github.com/AmineM89)
 
-- 💬 Ask me about **Python, Pandas, Pytorch**
+- 💬 Ask me about **Python, SQL, Power BI**
 
 - 📫 How to reach me **a.mohabeddine@gmail.com**
 
