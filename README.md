@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" height="40" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" height="40" alt="git logo"  />
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminem89&show_icons=true&locale=en&layout=compact" alt="aminem89" /></p>
